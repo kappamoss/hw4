@@ -1,5 +1,6 @@
-# Reference 
-https://blog.csdn.net/qianbin3200896/article/details/104181552  
+# Introduction
+The goal of this project is to upscale and improve the quality of low resolution images.
+
 # Data Directory  
 <pre><code> +- VRDL_HW4
     +- models
@@ -41,4 +42,5 @@ You only need to cleck all the cells and you can get the output images in high-r
 
 My PSNR score: 27.4716 with 2100 epochs (training time 11hours 40mins)  
 ![image](https://user-images.githubusercontent.com/24381268/149338780-0f8c4389-1285-4726-9776-64c08e7eb25a.png)
-
+# Reference 
+https://blog.csdn.net/qianbin3200896/article/details/104181552  
