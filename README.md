@@ -38,6 +38,6 @@ Use the inference.ipynb on colab to generate the answer: https://colab.research.
 
 you can get the output images in high-resolution image folder  
 
-My PSNR score: 27.4716 with 2100 epochs
+My PSNR score: 27.4716 with 2100 epochs (training time 11hour 40mins)  
 ![image](https://user-images.githubusercontent.com/24381268/149338780-0f8c4389-1285-4726-9776-64c08e7eb25a.png)
 
