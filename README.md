@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1n796E-LuV1lxqtXJvYgGQIKCWLpN5deH/view?usp=shari
 </code></pre>
 
 
-# Use my model &  generate the answer. (high-resolution image)  
+# Use my model &  generate the answer.     (high-resolution image)  
 Use the inference.ipynb on colab to generate the answer: https://colab.research.google.com/drive/1WwW7anJiJ9tDxJ93iKFvCDg9DRxixXYJ#scrollTo=4jL5aZH-2Jtu  
 You only need to cleck all the cells and you can get the output images in high-resolution image folder  
 
